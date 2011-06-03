@@ -1,0 +1,10 @@
+configuration
+
+title "mathmo" 
+version "0.2"
+icon icon.png
+lib nrichRPG
+
+style $baseColor = rgb(100,100,100)
+
+
